@@ -15,7 +15,7 @@ resonance control that makes the filters suitable for audio applications.
 2. Matplotlib (used only for graph.py)
 
 # Example Usage
-```
+```python
 import filterutils
 
 N           = 4       # Filter order
